@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+logs/
+api_out.txt
+api_err.txt
+
+# Node
+node_modules/
+codeinsight-ui/dist/
+codeinsight-ui/.vite/
+
+# Environment
+appsettings.Development.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
